@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\Fortizo\Fortizo\obj\Release\android\assets\Fortizo.dll
+C:\Users\user\Desktop\Fortizo\Fortizo\obj\Release\android\assets\FastAndroidCamera.dll
+C:\Users\user\Desktop\Fortizo\Fortizo\obj\Release\android\assets\Xamarin.Android.Support.v4.dll
+C:\Users\user\Desktop\Fortizo\Fortizo\obj\Release\android\assets\ZXing.Net.Mobile.Core.dll
+C:\Users\user\Desktop\Fortizo\Fortizo\obj\Release\android\assets\zxing.portable.dll
+C:\Users\user\Desktop\Fortizo\Fortizo\obj\Release\android\assets\ZXingNetMobile.dll
+C:\Users\user\Desktop\Fortizo\Fortizo\obj\Release\android\assets\Java.Interop.dll
+C:\Users\user\Desktop\Fortizo\Fortizo\obj\Release\android\assets\Mono.Android.dll
+C:\Users\user\Desktop\Fortizo\Fortizo\obj\Release\android\assets\System.Core.dll
+C:\Users\user\Desktop\Fortizo\Fortizo\obj\Release\android\assets\System.dll
+C:\Users\user\Desktop\Fortizo\Fortizo\obj\Release\android\assets\System.Xml.dll
+C:\Users\user\Desktop\Fortizo\Fortizo\obj\Release\android\assets\mscorlib.dll
+C:\Users\user\Desktop\Fortizo\Fortizo\obj\Release\android\assets\System.Runtime.Serialization.dll
+C:\Users\user\Desktop\Fortizo\Fortizo\obj\Release\android\assets\Mono.Security.dll

@@ -1,0 +1,1 @@
+<resources><style name="MyCustomTheme" parent="android:Theme.Material.Light.NoActionBar"><item name="android:colorPrimaryDark">#ff455a64</item><item name="android:colorPrimary">#fff</item><item name="android:colorControlNormal">#D2CACA</item><item name="android:colorControlActivated">#D2CACA</item></style></resources>
